@@ -20,3 +20,5 @@
 如有侵权请邮件与我联系处理。
 
 Email：chouyuc@outlook.com
+
+推荐：[iqiqiya-AP](https://github.com/iqiqiya/iqiqiya-API)， 有几个接口解析方法参考这个项目，大家也可以去看看有没有自己需要的
