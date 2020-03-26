@@ -2,4 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
+/ChouYuc_Api/bin/Debug/netcoreapp3.1
+/ChouYuc_Api/.vs/ChouYuc_Api/v16
+/ChouYuc_Api/obj
+/ChouYuc_Api/.vs/ChouYuc_Api/DesignTimeBuild
 /.vs
